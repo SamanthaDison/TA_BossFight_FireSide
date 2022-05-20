@@ -1,0 +1,35 @@
+main {
+    min-height: 100vh;
+}
+
+.bg-img {
+    background-image: url("https://images.unsplash.com/photo-1621872111945-1b5497a1ce7d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654");
+    background-position: center;
+    background-size: cover;
+}
+
+.hero-card {
+    border: 2px solid green;
+    border-radius: 5px;
+    background-color: rgb(32, 31, 31);
+    color: white;
+    user-select: none;
+}
+
+.hero-img {
+    height: 50px;
+    width: 50px;
+}
+
+.boss-card {
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: rgb(32, 31, 31);
+    color: white;
+    user-select: none;
+}
+
+.boss-img {
+    height: 30vh;
+    width: 30vh;
+}
